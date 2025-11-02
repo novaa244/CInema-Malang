@@ -51,7 +51,7 @@ lib/
  └── widgets/
       └── theater_item.dart
 assets/
- └── bg.jpg
+ └── bg.jpeg
 ```
 
 ---
