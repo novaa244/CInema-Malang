@@ -60,7 +60,7 @@ assets/
 
 1. Clone repository ini  
    ```bash
-   git clone https://github.com/<username>/tugas_lms3.git
+   git clone https://github.com/novaa244/CInema-Malang.git
    cd tugas_lms3
    ```
 
