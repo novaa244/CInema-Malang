@@ -84,7 +84,6 @@ assets/
 |-------------|---------------|--------------|
 | ![Login](assets/login.png) | ![Sign-up](assets/sign_up.png) | ![Theater](assets/theater.png) |
 
-*(Ganti dengan screenshot aktual dari aplikasi kamu)*
 
 ---
 
